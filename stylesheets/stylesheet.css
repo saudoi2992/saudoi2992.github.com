@@ -1,5 +1,5 @@
 body {
-	background-color:#ffffff;
+	background-color:#EEF6FA;
 	color:#000000;
 
 	font-size: 12px;
@@ -17,7 +17,7 @@ body {
 	width: 717px;
 }
 #container #tabs {
- background-color:#199797;
+ background-color:#478FB2;
 
 margin: 0px 10px 50px 0 ;
 width: 1267px;
@@ -50,7 +50,7 @@ height:30px;
  font-size:13px;
 }
 #container #tabs ul li:hover{
- background-color:#00B85C;
+ background-color:  #6CB1D4;
 padding: 5px 0px 9px 0px;
  color:black;
 }
@@ -147,18 +147,27 @@ body #container #header #logo_w2 span{
 
 }
 #container #body #td tr.a{
-	background-color:#00A37A;
-	height:100px;
+	background-color:#66A8C9;
+	height:200px;
 }
 #container #body #td tr.s{
-	background-color:#00CC66;
-	height:100px;
+	background-color: #CBE3F0;
+	height:200px;
 }
 
 
 #container #body  li sr {
 	font-size:30px;
 	color:black;
+}
+#container #body #td li.one,
+#container #body #td li.two,
+#container #body #td li.three,
+#container #body #td li.four,
+#container #body #td li.five,
+#container #body #td li.six,
+#container #body #td li.seven{
+ display: none;
 }
 
 /********************** Footer ***************************/
